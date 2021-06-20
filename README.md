@@ -1,8 +1,17 @@
 ### Hi there, I'm WKYLIN👋
 
+我是一个全栈软件工程师，喜欢编程和旅行，喜欢做一些有意义的事情。
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wkylin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wkylin)
+Glade to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=wkylin)
+
+Talking about Personal Stuffs:
+
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning React...
+- 💬 Ask me about, I am happy to help;
+- 📫 How to reach me: wkylin.w@gmail.com;
 
 <!--
 **wkylin/wkylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
