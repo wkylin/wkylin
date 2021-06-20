@@ -1,6 +1,6 @@
 ### Hi there, I'm WKYLIN👋
 
-我是一个全栈软件工程师，喜欢编程和旅行，喜欢做一些有意义的事情。
+I am a full stack software engineer, love programming and travel, love to do some meaningful things.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wkylin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
