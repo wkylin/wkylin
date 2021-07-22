@@ -13,13 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wkylin](https://github.com/wkylin)
 
-- 📝 I regularly write articles on [https://github.com/wkylin](https://github.com/wkylin)
-
-- 💬 Ask me about **react, nodejs**
-
 - 📫 How to reach me **wkylin.w@gmail.com**
-
-- 📄 Know about my experiences [http://resume.github.io/?wkylin](http://resume.github.io/?wkylin)
 
 - ⚡ Fun fact **I think I am funny**
 
