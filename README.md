@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkylin&label=Profile%20views&color=0e75b6&style=flat" alt="wkylin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wkylin" alt="wkylin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wkylin" alt="wkylin" /></a>
 
-<p align="left"> <a href="https://twitter.com/wkylin" target="blank"><img src="https://img.shields.io/twitter/follow/wkylin?logo=twitter&style=for-the-badge" alt="wkylin" /></a> </p>
+<a href="https://twitter.com/wkylin" target="blank"><img src="https://img.shields.io/twitter/follow/wkylin?logo=twitter&style=for-the-badge" alt="wkylin" /></a> </p>
 
 - 🔭 I’m currently working on [promotion-web](https://wkylin.github.io/promotion-web/)
 
@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/wkylin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wkylin" height="30" width="40" /></a>
-<a href="https://dev.to/wkylin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="wkylin" height="30" width="40" /></a>
-<a href="https://twitter.com/wkylin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wkylin" height="30" width="40" /></a>
-<a href="https://medium.com/@wkylin.w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wkylin.w" height="30" width="40" /></a>
+<a href="https://codepen.io/wkylin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wkylin" height="30" width="30" /></a>
+<a href="https://dev.to/wkylin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="wkylin" height="30" width="30" /></a>
+<a href="https://twitter.com/wkylin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wkylin" height="30" width="30" /></a>
+<a href="https://medium.com/@wkylin.w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wkylin.w" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Tools:</h3>
