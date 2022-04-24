@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<a href="https://app.daily.dev/wkylin"><img src="https://api.daily.dev/devcards/33af6d7cdbd64829b51d998fec8f7bc2.png?r=fv5" width="400" alt="wkylin.w's Dev Card"/></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,6 +38,9 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<p><img align="left" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wkylin&show_icons=true&locale=en&layout=compact" alt="wkylin" />
-<img align="left" width="420px" src="https://github-readme-stats.vercel.app/api?username=wkylin&show_icons=true&locale=en" alt="wkylin" /></p>
+<p>
+  <img align="left" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wkylin&show_icons=true&locale=en&layout=compact" alt="wkylin" />
+  <img align="left" width="420px" src="https://github-readme-stats.vercel.app/api?username=wkylin&show_icons=true&locale=en" alt="wkylin" />
+  <a href="https://app.daily.dev/wkylin"><img src="https://api.daily.dev/devcards/33af6d7cdbd64829b51d998fec8f7bc2.png?r=fv5" width="200" alt="wkylin.w's Dev Card"/></a>
+</p>
 
