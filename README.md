@@ -40,7 +40,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### My Stats
+#### My Stats:
 <div>
   <img width="320px" height="156" src="https://github-readme-stats.vercel.app/api/top-langs?username=wkylin&show_icons=true&locale=en&layout=compact" alt="wkylin" />
   <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=wkylin&show_icons=true&locale=en" alt="wkylin" />
@@ -49,3 +49,5 @@
 #### My contribution graph get eaten by the snake 🐍:
 ![snake gif](https://github.com/wkylin/wkylin/blob/output/github-contribution-grid-snake.gif)
 
+### Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wkylin)](https://git.io/streak-stats)
