@@ -50,7 +50,7 @@
 ![snake gif](https://github.com/wkylin/wkylin/blob/output/github-contribution-grid-snake.gif)
 
 ### Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wkylin)](https://git.io/streak-stats)
+#[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wkylin)](https://git.io/streak-stats)
 
 ### Profile 3d contrib
 ![](./profile-3d-contrib/profile-green-animate.svg)
