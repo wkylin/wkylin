@@ -11,7 +11,7 @@
   <a href="https://app.daily.dev/wkylin"><img src="https://api.daily.dev/devcards/33af6d7cdbd64829b51d998fec8f7bc2.png?r=fv5" width="190" alt="wkylin.w's Dev Card"/></a>
 </p> -->
 
-- 🔭 I’m currently working on [pro-react-admin](https://wkylin.github.io/promotion-web/)
+- 🔭 I’m currently working on [pro-react-admin](https://wkylin.github.io/pro-react-admin/)
 
 - 🌱 I’m currently learning **React,NodeJs**
 
