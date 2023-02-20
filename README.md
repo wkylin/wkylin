@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [pro-react-admin](https://wkylin.github.io/pro-react-admin/)
 
-- 🌱 I’m currently learning **React,NodeJs**
+- 🌱 I’m currently learning **React,NodeJs, Remix, GraphQL, Prisma, MongoDB, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wkylin](https://github.com/wkylin)
 
