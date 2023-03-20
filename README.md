@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm wkylin</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<p align="left">
-<!--   <img src="https://komarev.com/ghpvc/?username=wkylin&label=Profile%20views&color=0e75b6&style=flat" alt="wkylin" /> -->
-  <a href="https://twitter.com/wkylin" target="blank"><img src="https://img.shields.io/twitter/follow/wkylin?logo=twitter&style=for-the-badge" alt="wkylin" /></a>
-</p>
-
-<!-- <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wkylin" width="800" alt="wkylin" /></a>
-  <a href="https://app.daily.dev/wkylin"><img src="https://api.daily.dev/devcards/33af6d7cdbd64829b51d998fec8f7bc2.png?r=fv5" width="190" alt="wkylin.w's Dev Card"/></a>
-</p> -->
-
 - 🔭 I’m currently working on [pro-react-admin](https://wkylin.github.io/pro-react-admin/)
 
 - 🌱 I’m currently learning **React,NodeJs, Remix, GraphQL, Prisma, MongoDB, Docker, Qiankun, DevOps**
