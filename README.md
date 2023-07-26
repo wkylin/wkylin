@@ -39,7 +39,7 @@
 </div>
 
 #### My contribution graph get eaten by the snake 🐍:
-(https://github.com/wkylin/wkylin/blob/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://github.com/wkylin/wkylin/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 ### Streak:
