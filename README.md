@@ -40,7 +40,7 @@
    <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
    <a href="https://webpack.js.org" target="_blank"> <img src="https://simpleicons.org/icons/webpack.svg" alt="webpack" width="40" height="40"/> </a>
-   <a href="[https://webpack.js.org](https://vite.dev/)" target="_blank"> <img src="[https://simpleicons.org/icons/webpack.svg](https://simpleicons.org/icons/vite.svg)" alt="vite" width="40" height="40"/> </a>
+   <a href="[https://webpack.js.org](https://vite.dev/)" target="_blank"> <img src="https://simpleicons.org/icons/vite.svg" alt="vite" width="40" height="40"/> </a>
 </p>
 
 #### Languages:
@@ -59,9 +59,10 @@
 
 #### My contribution graph get eaten by the snake 🐍:
 ![github-contribution-grid-snake](https://github.com/wkylin/wkylin/blob/output/github-contribution-grid-snake.svg)
-
+<!--
 #### Daily.dev
 <a href="https://app.daily.dev/wkylin"><img src="https://api.daily.dev/devcards/v2/QsDRwfOtY.png?r=q6j&type=wide" width="652" alt="wkylin.w's Dev Card"/></a>
+-->
 <!--
 ### Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wkylin)](https://git.io/streak-stats)
