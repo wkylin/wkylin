@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **wkylin.w@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
-
 #### Connect with me:
 <p>
    <a href="https://codepen.io/wkylin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wkylin" height="30" width="30" /></a>
