@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm wkylin</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate frontend developer from China in React & Vue</h3>
 
 - 🔭 I’m currently working on [pro-react-admin](https://wkylin.github.io/pro-react-admin/)
 
-- 🌱 I’m currently learning **React,NodeJs, Remix, GraphQL, Prisma, MongoDB, Docker, Qiankun, DevOps**
+- 🌱 I’m currently learning **React, Vue, NodeJs, NextJs, Remix, GraphQL, Prisma, MongoDB, Koa, Docker, Qiankun, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wkylin](https://github.com/wkylin)
 
