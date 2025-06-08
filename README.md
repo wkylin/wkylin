@@ -65,7 +65,5 @@
 ### Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wkylin)](https://git.io/streak-stats)
 
-<!--
 ### Profile 3d contrib
 ![](./profile-3d-contrib/profile-green-animate.svg)
--->
