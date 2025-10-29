@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wkylin</h1>
-<h3 align="center">A passionate frontend developer from China in React & Vue</h3>
+<h3 align="center">A passionate frontend developer from China, proficient in React and Vue.</h3>
 
 - 🔭 I’m currently working on [pro-react-admin](https://pro-react-admin.vercel.app)
 
