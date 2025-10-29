@@ -2,11 +2,9 @@
 <h3 align="center">A passionate frontend developer from China, proficient in React and Vue.</h3>
 
 - 🔭 I’m currently working on [pro-react-admin](https://pro-react-admin.vercel.app)
-
-- 🌱 I’m currently learning **React, Vue, NodeJs, NextJs, Remix, GraphQL, Prisma, MongoDB, Koa, Docker, Qiankun, DevOps**
-
+- 🌱 As a frontend developer specializing in React and Vue, I am currently broadening my expertise into full-stack development.
+- 🌱 My learning path includes meta-frameworks like Next.js and Remix, backend technologies with Node.js and Koa, and essential tools like GraphQL, Prisma, Docker, and Qiankun.
 - 👨‍💻 All of my projects are available at [https://github.com/wkylin](https://github.com/wkylin)
-
 - 📫 How to reach me **wkylin.w@gmail.com**
 
 #### Connect with me:
