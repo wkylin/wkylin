@@ -59,8 +59,4 @@
 #### Daily.dev
 <a href="https://app.daily.dev/wkylin"><img src="https://api.daily.dev/devcards/v2/QsDRwfOtY.png?r=q6j&type=wide" width="652" alt="wkylin.w's Dev Card"/></a>
 -->
-### Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wkylin)](https://git.io/streak-stats)
 
-### Profile 3d contrib
-![](./profile-3d-contrib/profile-green-animate.svg)
