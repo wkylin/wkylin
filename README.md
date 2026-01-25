@@ -53,10 +53,8 @@
   <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=wkylin&show_icons=true&locale=en" alt="wkylin" />
 </div>
 
+#### My Game
+![My GitHub Game](game.gif)
+
 #### My contribution graph gets eaten by the snake 🐍:
 ![github-contribution-grid-snake](https://github.com/wkylin/wkylin/blob/output/github-contribution-grid-snake.svg)
-<!--
-#### Daily.dev
-<a href="https://app.daily.dev/wkylin"><img src="https://api.daily.dev/devcards/v2/QsDRwfOtY.png?r=q6j&type=wide" width="652" alt="wkylin.w's Dev Card"/></a>
--->
-
