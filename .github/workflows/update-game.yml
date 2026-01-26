@@ -14,8 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # 1. 生成游戏 GIF 的步骤
       - uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'game.gif'
           strategy: 'random'
+
+      # 2. 【新增】将生成的 GIF 提交并推送到仓库的步骤
+      - name: Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update game.gif
+          file_pattern: 'game.gif'  # 只处理这个文件
