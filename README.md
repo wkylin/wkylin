@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/wkylin](https://github.com/wkylin)
 - 📫 How to reach me **wkylin.w@gmail.com**
 
-#### Connect with me:
+#### Connect with me 📩:
 <p>
    <a href="https://codepen.io/wkylin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wkylin" height="30" width="30" /></a>
    <a href="https://dev.to/wkylin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="wkylin" height="30" width="30" />      </a>
@@ -18,7 +18,7 @@
   <a href="https://hashnode.com/feed" target="blank"><img align="center" src="https://simpleicons.org/icons/hashnode.svg" alt="@wkylin.w" height="30" width="30" /></a>
 </p>
 
-#### Tools:
+#### Tools 🛠️:
 <p align="left"> 
    <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -39,7 +39,7 @@
    <a href="[https://webpack.js.org](https://vite.dev/)" target="_blank"> <img src="https://simpleicons.org/icons/vite.svg" alt="vite" width="40" height="40"/> </a>
 </p>
 
-#### Languages:
+#### Languages 📚:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,13 +47,13 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### My Stats:
+#### My Stats 🎉:
 <div>
   <img width="320px" height="156" src="https://github-readme-stats.vercel.app/api/top-langs?username=wkylin&show_icons=true&locale=en&layout=compact" alt="wkylin" />
   <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=wkylin&show_icons=true&locale=en" alt="wkylin" />
 </div>
 
-#### My Game
+#### My Game ✈️:
 ![My GitHub Game](game.gif)
 
 #### My contribution graph gets eaten by the snake 🐍:
