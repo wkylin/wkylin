@@ -8,7 +8,7 @@
 - 📫 How to reach me **wkylin.w@gmail.com**
 
 #### Connect with me 📩:
-<p>
+<p style="display:flex; gap: 5px;">
    <a href="https://codepen.io/wkylin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wkylin" height="30" width="30" /></a>
    <a href="https://dev.to/wkylin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="wkylin" height="30" width="30" />      </a>
    <a href="https://x.com/wkylin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wkylin" height="30" width="30" /></a>
@@ -19,7 +19,7 @@
 </p>
 
 #### Tools 🛠️:
-<p align="left"> 
+<p style="display:flex; gap: 5px;">
    <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
