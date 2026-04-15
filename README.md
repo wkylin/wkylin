@@ -8,79 +8,39 @@
 - 📫 How to reach me **wkylin.w@gmail.com**
 
 #### Connect with me 📩:
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://codepen.io/wkylin">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="30" height="30" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dev.to/wkylin">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" width="30" height="30" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/wkylin">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" width="30" height="30" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://medium.com/@wkylin.w">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="30" height="30" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://juejin.cn/user/289926798641176">
-        <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" alt="Juejin" width="30" height="30" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://app.daily.dev/wkylin">
-        <img src="https://simpleicons.org/icons/dailydotdev.svg" alt="daily.dev" width="30" height="30" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://hashnode.com/feed">
-        <img src="https://simpleicons.org/icons/hashnode.svg" alt="Hashnode" width="30" height="30" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://codepen.io/wkylin"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="30" height="30" /></a>&nbsp;&nbsp;
+  <a href="https://dev.to/wkylin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" width="30" height="30" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/wkylin"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" width="30" height="30" /></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@wkylin.w"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="30" height="30" /></a>&nbsp;&nbsp;
+  <a href="https://juejin.cn/user/289926798641176"><img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" alt="Juejin" width="30" height="30" /></a>&nbsp;&nbsp;
+  <a href="https://app.daily.dev/wkylin"><img src="https://simpleicons.org/icons/dailydotdev.svg" alt="daily.dev" width="30" height="30" /></a>&nbsp;&nbsp;
+  <a href="https://hashnode.com/feed"><img src="https://simpleicons.org/icons/hashnode.svg" alt="Hashnode" width="30" height="30" /></a>
+</p>
 
 #### Tools 🛠️:
-<table>
-  <tr>
-    <td align="center"><a href="https://babeljs.io/"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://nextjs.org/"><img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next.js" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a></td>
-    <td align="center"><a href="https://webpack.js.org"><img src="https://simpleicons.org/icons/webpack.svg" alt="Webpack" width="40" height="40" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://vite.dev/"><img src="https://simpleicons.org/icons/vite.svg" alt="Vite" width="40" height="40" /></a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://babeljs.io/"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/"><img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next.js" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://webpack.js.org"><img src="https://simpleicons.org/icons/webpack.svg" alt="Webpack" width="40" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://vite.dev/"><img src="https://simpleicons.org/icons/vite.svg" alt="Vite" width="40" height="40" /></a>
+</p>
+
+
+
 #### Languages 📚:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
