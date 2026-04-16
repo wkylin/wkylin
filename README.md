@@ -8,7 +8,7 @@
 - 📫 How to reach me **wkylin.w@gmail.com**
 
 #### Connect with me 📩:
-<p align="left">
+<div align="left">
   <a href="https://codepen.io/wkylin"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="30" height="30" /></a>&nbsp;&nbsp;
   <a href="https://dev.to/wkylin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" width="30" height="30" /></a>&nbsp;&nbsp;
   <a href="https://x.com/wkylin"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" width="30" height="30" /></a>&nbsp;&nbsp;
@@ -16,10 +16,10 @@
   <a href="https://juejin.cn/user/289926798641176"><img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" alt="Juejin" width="30" height="30" /></a>&nbsp;&nbsp;
   <a href="https://app.daily.dev/wkylin"><img src="https://simpleicons.org/icons/dailydotdev.svg" alt="daily.dev" width="30" height="30" /></a>&nbsp;&nbsp;
   <a href="https://hashnode.com/feed"><img src="https://simpleicons.org/icons/hashnode.svg" alt="Hashnode" width="30" height="30" /></a>
-</p>
+</div>
 
 #### Tools 🛠️:
-<p align="left">
+<div align="left">
   <a href="https://babeljs.io/"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>&nbsp;&nbsp;
@@ -37,7 +37,7 @@
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://webpack.js.org"><img src="https://simpleicons.org/icons/webpack.svg" alt="Webpack" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://vite.dev/"><img src="https://simpleicons.org/icons/vite.svg" alt="Vite" width="40" height="40" /></a>
-</p>
+</div>
 
 
 
