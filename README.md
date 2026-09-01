@@ -50,10 +50,12 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### My Stats 🎉:
+<!--
 <div>
   <img width="320px" height="156" src="https://github-readme-stats.vercel.app/api/top-langs?username=wkylin&show_icons=true&locale=en&layout=compact" alt="wkylin" />
   <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=wkylin&show_icons=true&locale=en" alt="wkylin" />
 </div>
+-->
 
 #### My Game ✈️:
 ![My GitHub Game](game.gif)
